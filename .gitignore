@@ -1,3 +1,4 @@
 ps5b_student.pdf
 ps5b_student.tex
-*.ipynb
+.DS_Store
+.ipynb_checkpoints
