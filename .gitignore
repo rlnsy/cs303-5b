@@ -2,3 +2,5 @@ ps5b_student.pdf
 ps5b_student.tex
 .DS_Store
 .ipynb_checkpoints
+*.png
+*.tex
